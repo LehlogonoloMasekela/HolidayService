@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8DC8CAC4-0991-4E20-96C9-85BB92DA6FA2}|Default">
+  <MonoDevelop.Ide.ItemProperties.HolidayService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HolidayService/Properties/launchSettings.json">
+    <Files>
+      <File FileName="HolidayService/Controllers/HolidayController.cs" Line="93" Column="10" />
+      <File FileName="HolidayService.Domain/Holiday.cs" Line="8" Column="6" />
+      <File FileName="HolidayService/Model/HolidayResponse.cs" Line="9" Column="44" />
+      <File FileName="HolidayService/Startup.cs" Line="32" Column="41" />
+      <File FileName="HolidayService/Properties/launchSettings.json" Line="25" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HolidayService" expanded="True">
+            <Node name="HolidayService" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

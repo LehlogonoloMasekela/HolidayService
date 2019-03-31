@@ -1,0 +1,8 @@
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService.Domain/bin/Debug/netcoreapp2.1/HolidayService.Domain.deps.json
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService.Domain/bin/Debug/netcoreapp2.1/HolidayService.Domain.dll
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService.Domain/bin/Debug/netcoreapp2.1/HolidayService.Domain.pdb
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService.Domain/obj/Debug/netcoreapp2.1/HolidayService.Domain.csproj.CoreCompileInputs.cache
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService.Domain/obj/Debug/netcoreapp2.1/HolidayService.Domain.AssemblyInfoInputs.cache
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService.Domain/obj/Debug/netcoreapp2.1/HolidayService.Domain.AssemblyInfo.cs
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService.Domain/obj/Debug/netcoreapp2.1/HolidayService.Domain.dll
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService.Domain/obj/Debug/netcoreapp2.1/HolidayService.Domain.pdb

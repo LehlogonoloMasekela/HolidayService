@@ -1,0 +1,17 @@
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/bin/Debug/netcoreapp2.1/HolidayService.deps.json
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/bin/Debug/netcoreapp2.1/HolidayService.runtimeconfig.json
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/bin/Debug/netcoreapp2.1/HolidayService.runtimeconfig.dev.json
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/bin/Debug/netcoreapp2.1/HolidayService.dll
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/bin/Debug/netcoreapp2.1/HolidayService.pdb
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/bin/Debug/netcoreapp2.1/HolidayService.Domain.dll
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/bin/Debug/netcoreapp2.1/HolidayService.Domain.pdb
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/obj/Debug/netcoreapp2.1/HolidayService.csprojAssemblyReference.cache
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/obj/Debug/netcoreapp2.1/HolidayService.csproj.CoreCompileInputs.cache
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/obj/Debug/netcoreapp2.1/HolidayService.RazorAssemblyInfo.cache
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/obj/Debug/netcoreapp2.1/HolidayService.RazorAssemblyInfo.cs
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/obj/Debug/netcoreapp2.1/HolidayService.AssemblyInfoInputs.cache
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/obj/Debug/netcoreapp2.1/HolidayService.AssemblyInfo.cs
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/obj/Debug/netcoreapp2.1/HolidayService.RazorTargetAssemblyInfo.cache
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/obj/Debug/netcoreapp2.1/HolidayService.csproj.CopyComplete
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/obj/Debug/netcoreapp2.1/HolidayService.dll
+/Users/dade84/repo/CodeSharers/HolidayService/HolidayService/HolidayService/obj/Debug/netcoreapp2.1/HolidayService.pdb
